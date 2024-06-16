@@ -48,3 +48,5 @@ python src/TextCNN.py --epoch 30 --dropout 1
 │   └── requirements.txt
 └── readme.md
 ```
+## 项目体会
+本次项目中我初步学习了深度学习模型的使用

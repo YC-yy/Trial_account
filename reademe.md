@@ -48,3 +48,5 @@ python src/TextCNN.py --epoch 30 --dropout 1
 │   └── requirements.txt
 └── readme.md
 ```
+## 实验感受
+本次实验我熟悉了深度学习代码基本使用
